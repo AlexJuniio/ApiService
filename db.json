@@ -1,0 +1,32 @@
+{
+  "productList": [
+    {
+      "productname": "Iphone 12 mini",
+      "categoria": "Eletrônicos",
+      "estado": "Novo",
+      "price": 3999,
+      "comentario": "Apple",
+      "data": "2022-03-11T03:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productname": "Sansumg S10+",
+      "categoria": "Eletrônicos",
+      "estado": "Novo",
+      "price": 2999,
+      "comentario": "Samsung",
+      "data": "2022-03-11T03:00:00.000Z",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
